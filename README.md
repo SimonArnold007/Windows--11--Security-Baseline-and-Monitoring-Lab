@@ -158,6 +158,7 @@ Monitoring infrastructure integrity
 
 The purpose of these controls is not simply to make the system more restrictive, but to provide measurable risk reduction while maintaining reasonable usability.
  
+
 11. Wazuh Monitoring Architecture
 A major component of the project is the implementation of endpoint monitoring using Wazuh.
 The intended telemetry path is:
