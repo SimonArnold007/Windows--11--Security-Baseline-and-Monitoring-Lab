@@ -282,7 +282,8 @@ Can the resulting telemetry support investigation?
 Are there gaps between the security control and monitoring system?
 Testing will remain within the controlled laboratory environment.
   
-22. Evaluation Criteria
+
+21. Evaluation Criteria
 The security baseline will be evaluated using several criteria.
 Configuration
 Is the control configured correctly?
@@ -299,7 +300,8 @@ What threats remain despite the control?
 Usability
 Does the control remain practical for normal operation?
  
-23. Limitations
+
+22. Limitations
 The project recognises that a security baseline cannot eliminate all security risk.
 Potential limitations include:
 
