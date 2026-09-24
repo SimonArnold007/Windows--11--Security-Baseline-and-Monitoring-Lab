@@ -1,4 +1,4 @@
-# Windows--11--Security-Baseline-and-Monitoring-Lab
+# Windows-11-Security-Baseline-and-Monitoring-Lab
 This project develops and evaluates a security baseline for a Windows 11 workstation operating within a controlled cybersecurity laboratory.
 
 1. Project Overview
@@ -29,7 +29,8 @@ Verify that relevant Windows security events can be collected and forwarded.
 Test whether implemented security controls operate as intended.
 Evaluate the effectiveness and limitations of the security baseline.
 Maintain reasonable usability so that security controls remain practical and do not encourage users to bypass them.
- 3. Security Objectives
+
+3. Security Objectives
 The security objectives of the project are to:
 
 Reduce the risk of unauthorized access to the Windows 11 workstation.
