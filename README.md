@@ -112,6 +112,7 @@ Security-control bypass attacker
 An attacker attempting to disable, evade or bypass security controls and monitoring mechanisms.
 The project does not assume that every attacker has unrestricted access to the system. Attacker capabilities depend on the specific threat being evaluated.
  
+
 8. Threats Considered
 The baseline considers threats including:
 
