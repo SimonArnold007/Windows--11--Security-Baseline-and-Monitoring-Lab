@@ -190,6 +190,7 @@ On the Ubuntu side, the Wazuh manager was also confirmed to be listening on TCP 
 The wazuh-remoted process was confirmed to be running.
 These tests significantly narrow the troubleshooting scope because they make a basic network connectivity failure less likely.
  
+
 14. Wazuh Service Investigation
 During the investigation, the Windows Wazuh agent service was initially found to be stopped.
 The service was subsequently started/restarted and its state was checked.
