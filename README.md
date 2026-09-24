@@ -1,5 +1,5 @@
 # Windows--11--Security-Baseline-and-Monitoring-Lab
-2. This project develops and evaluates a security baseline for a Windows 11 workstation operating within a controlled cybersecurity laboratory.
+This project develops and evaluates a security baseline for a Windows 11 workstation operating within a controlled cybersecurity laboratory.
 
 1. Project Overview
 This project develops and evaluates a security baseline for a Windows 11 workstation operating within a controlled cybersecurity laboratory.
