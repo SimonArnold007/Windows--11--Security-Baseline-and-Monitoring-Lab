@@ -247,6 +247,7 @@ sudo ls -la /var/ossec/queue/sockets/
 The purpose of this check is to determine whether the expected Wazuh queue/socket endpoints exist and whether their state provides an explanation for the agent control queue connection failure.
 Following that investigation, the project will return to the Windows agent handshake and determine whether agent 001 can successfully authenticate and become active.
  
+
 19. Planned End-to-End Security Test
 Once agent 001 successfully connects, the original monitoring objective will be completed.
 The planned workflow is:
