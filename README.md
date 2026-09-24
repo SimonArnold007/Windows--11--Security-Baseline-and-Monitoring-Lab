@@ -316,7 +316,8 @@ The current Wazuh telemetry pipeline remains under development.
 
 These limitations will be considered when interpreting the results.
  
-23. Findings
+
+23.Findings
 The findings section will be updated as testing progresses.
 Current findings include:
 
