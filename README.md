@@ -42,6 +42,7 @@ Verify that selected security controls are correctly configured and operating as
 Evaluate the effectiveness and limitations of the baseline through controlled security testing.
 Maintain reasonable usability while improving the security posture of the workstation.
  
+
 4. System Being Protected
 The primary system being protected is a Windows 11 workstation operating within a controlled cybersecurity laboratory.
 The workstation runs a Wazuh agent intended to forward relevant security events to a Wazuh stack hosted on an Ubuntu 24 virtual machine.
@@ -74,6 +75,7 @@ Providing monitoring and analysis capabilities
 
 VirtualBox networking provides connectivity between the two systems.
  
+
 6. Assets
 The principal assets requiring protection include:
 
