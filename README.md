@@ -351,7 +351,8 @@ Documenting unsuccessful tests as well as successful ones.
 An unsuccessful test is still valuable when it provides evidence that narrows the possible causes of a problem.
 The Wazuh integration is therefore being treated not simply as a configuration exercise, but as an engineering investigation.
  
-25. Project Status
+
+25.Project Status
 Status: In progress
 
 The Windows security baseline and Wazuh monitoring environment have been established sufficiently to begin structured testing and troubleshooting.
